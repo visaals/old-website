@@ -1,0 +1,240 @@
+/***************************************************
+GENERAL
+****************************************************/
+
+
+
+a {
+	text-decoration: none;
+}
+
+html {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+
+/***************************************************
+COLORS
+****************************************************/
+
+
+
+a {
+	color:#000080;
+}
+
+/*````````````````````````````
+Header
+````````````````````````````*/
+header {
+	background-color: #984b44/*#778899*/;
+}
+
+h1, h2 {
+	color: #fff;
+}
+
+nav, nav a {
+	background-color:  #233237;
+	color: #fff; /*b0c4de*/
+}
+
+
+nav a:hover {
+	color: #fff;/*778899*/
+	text-decoration: none;
+	color: white;
+   font: bold 16px 'Open Sans Condensed', Sans-Serif;
+   text-shadow: 1px 1px #984b44,
+                2px 2px #984b44,
+                3px 3px #984b44;
+
+
+}
+
+nav a.selected {
+	color:#d3d3d3;/*778899*/
+
+}
+
+/*````````````````````````````
+Section (Image Gallery)
+````````````````````````````*/
+section p, img{
+	color: #fff;
+}
+
+
+/*````````````````````````````
+Footer
+````````````````````````````*/
+#footer {
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+/***************************************************
+HEADING/NAVIGATION
+****************************************************/
+
+
+#logo {
+	text-align: center;
+	margin: 0;
+	font-weight: 100;
+
+
+}
+
+
+h1 {
+	font-size: 1.75em;
+	margin: 15px 0;
+	line-height: 0.8em;
+
+}
+
+h2 {
+	font-style: italic;
+	margin: -5px 0 0;
+	font-size: 0.75em;
+	font-weight: normal;
+}
+
+header {
+
+	float: left;
+	margin: -30px 0 30px 0;
+	padding:  30px 0 0 0;
+	width: 100%;
+	height: 100%;
+
+}
+
+nav {
+
+	margin: 20px 0  0;
+	text-align: center;
+	padding: 5px 0;
+	border:  1px solid #602b2b;
+  outline: #602b2b solid medium;
+  display: block;
+  width: 100%;
+
+}
+
+nav ul {
+	list-style: none;
+	margin: 0 10px;
+	padding: 0;
+
+}
+
+nav li {
+
+	font-weight: 800;
+	display: inline-block;
+	padding: 10px 10px;
+	overflow: hidden;
+}
+
+/***************************************************
+SECTION --- background
+****************************************************/
+
+body {
+	background-image: url(http://www.chattanoogafun.com/media/accolades.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+
+}
+
+#wrapper {
+	padding-top: 50px;
+}
+
+ul {
+	display: center;
+}
+
+
+/***************************************************
+SECTION --- gallery
+****************************************************/
+
+section {
+	margin: 0;
+	padding: 0px 20px 0 0;
+
+
+}
+
+section img {
+	max-width: 300px;
+	max-height: 300px;
+
+}
+
+section ul{
+	list-style: none;
+	text-align: center;
+
+
+}
+
+section ul li {
+
+	padding: 0 5% 0 5% ;
+	display: inline-block;
+
+}
+
+section ul li p {
+	background: #000;
+	opacity: 0.6;
+	padding: 20px;
+
+
+}
+
+#p1 {
+	position: relative;
+	bottom: 10px;
+	border-radius: 1% 1% 0% 0%;
+}
+
+#p2 {
+	position: relative;
+	top: -42px;
+	border-radius: 0% 0% 1% 1%;
+}
+
+h4 {
+	font-weight: 900;
+	font-size: 20pt;
+	color: white;
+}
+
+/***************************************************
+FOOTER
+****************************************************/
+
+footer {
+	text-align: center;
+	padding-left: 20px;
+}
+
+footer img {
+	background: #fff;
+	border-radius: 15%;
+	height: 25px;
+	width: 25px;
+}
