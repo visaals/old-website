@@ -1,1 +1,1 @@
-Visaal's Website - now made from more scratch
+Welcome to Visaal's Website!
