@@ -36,13 +36,13 @@ h1, h2 {
 	color: #fff;
 }
 
-nav, nav a {
+nav, nav a, a {
 	background-color:  #233237;
 	color: #fff; /*b0c4de*/
 }
 
 
-nav a:hover {
+nav a:hover, a:hover {
 	color: #fff;/*778899*/
 	text-decoration: none;
 	color: white;
@@ -54,7 +54,7 @@ nav a:hover {
 
 }
 
-nav a.selected {
+nav a.selected{
 	color:#d3d3d3;/*778899*/
 
 }
