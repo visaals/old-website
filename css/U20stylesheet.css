@@ -3,11 +3,11 @@ GENERAL
 ****************************************************/
 
 
-/*
+
 a {
 	text-decoration: none;
 }
-*/
+
 html {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -19,10 +19,8 @@ html {
 COLORS
 ****************************************************/
 
-
-
 a {
-	color: #fff
+	color: #fff;
 }
 
 /*````````````````````````````
