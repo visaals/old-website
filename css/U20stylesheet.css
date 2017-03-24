@@ -8,8 +8,12 @@ a {
 	text-decoration: none;
 }
 
-html {
+html, body {
 	font-family: 'Open Sans Condensed', sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 
@@ -159,8 +163,6 @@ body {
 	-moz-animation: v_website_gradient 30s ease infinite;
 	-o-animation: v_website_gradient 30s ease infinite;
 	animation: v_website_gradient 30s ease infinite;
-
-
 
 }
 
