@@ -147,11 +147,38 @@ SECTION --- background
 ****************************************************/
 
 body {
-	background-image: url(http://www.chattanoogafun.com/media/accolades.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+
+	background: linear-gradient(189deg, #984b44, #233237);
+	background-size: 400% 400%;
+
+	-webkit-animation: v_website_gradient 30s ease infinite;
+	-moz-animation: v_website_gradient 30s ease infinite;
+	-o-animation: v_website_gradient 30s ease infinite;
+	animation: v_website_gradient 30s ease infinite;
+	@-webkit-keyframes v_website_gradient {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@-moz-keyframes v_website_gradient {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@-o-keyframes v_website_gradient {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@keyframes v_website_gradient {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
 
 
 }
