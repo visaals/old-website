@@ -19,10 +19,8 @@ html {
 COLORS
 ****************************************************/
 
-
-
 a {
-	color:#000080;
+	color: #fff;
 }
 
 /*````````````````````````````
@@ -36,13 +34,14 @@ h1, h2 {
 	color: #fff;
 }
 
+
 nav, nav a {
 	background-color:  #233237;
 	color: #fff; /*b0c4de*/
 }
 
 
-nav a:hover {
+nav a:hover, a:hover {
 	color: #fff;/*778899*/
 	text-decoration: none;
 	color: white;
@@ -54,7 +53,7 @@ nav a:hover {
 
 }
 
-nav a.selected {
+nav a.selected{
 	color:#d3d3d3;/*778899*/
 
 }
