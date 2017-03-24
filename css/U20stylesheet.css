@@ -2,21 +2,14 @@
 GENERAL
 ****************************************************/
 
-
-
 a {
 	text-decoration: none;
 }
 
 html, body {
 	font-family: 'Open Sans Condensed', sans-serif;
-	width: 100%;
-	height: 100%;
-	margin: 0;
-	padding: 0;
+
 }
-
-
 
 
 /***************************************************
@@ -151,42 +144,32 @@ SECTION --- background
 ****************************************************/
 
 body {
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-
-	background: linear-gradient(189deg, #984b44, #233237);
+	background: linear-gradient(272deg, #984b44, #233237);
 	background-size: 400% 400%;
 
-	-webkit-animation: v_website_gradient 30s ease infinite;
-	-moz-animation: v_website_gradient 30s ease infinite;
-	-o-animation: v_website_gradient 30s ease infinite;
-	animation: v_website_gradient 30s ease infinite;
+	-webkit-animation: Gradient 30s ease infinite;
+	-moz-animation: Gradient 30s ease infinite;
+	animation: Gradient 30s ease infinite;
+
+
 
 }
 
-@-webkit-keyframes v_website_gradient {
+@-webkit-keyframes Gradient {
 		0%{background-position:0% 50%}
 		50%{background-position:100% 50%}
 		100%{background-position:0% 50%}
 }
-@-moz-keyframes v_website_gradient {
+@-moz-keyframes Gradient {
 		0%{background-position:0% 50%}
 		50%{background-position:100% 50%}
 		100%{background-position:0% 50%}
 }
-@-o-keyframes v_website_gradient {
+@keyframes Gradient {
 		0%{background-position:0% 50%}
 		50%{background-position:100% 50%}
 		100%{background-position:0% 50%}
 }
-@keyframes v_website_gradient {
-		0%{background-position:0% 50%}
-		50%{background-position:100% 50%}
-		100%{background-position:0% 50%}
-}
-
 #wrapper {
 	padding-top: 50px;
 }
