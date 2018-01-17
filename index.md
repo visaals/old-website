@@ -18,10 +18,11 @@ The inspiration for this project came from the fact that sometimes could not rem
 
 
 ## Academic Projects
-
-### Free Food Finder (CSE 330)
-#### Spring 2017
-###### Website Link: ![website-link] (http://free-food-finder.s3-website.us-east-2.amazonaws.com/)
+<div align="center">
+<h3> Free Food Finder (CSE 330) </h3>
+<h4> Spring 2017 </h4>
+<h6> Website Link: ![website-link] (http://free-food-finder.s3-website.us-east-2.amazonaws.com/) </h6>
+</div>
 
 ![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_1.png)
 ![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_2.png)
