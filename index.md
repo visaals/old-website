@@ -24,8 +24,8 @@ The inspiration for this project came from the fact that sometimes could not rem
 <h6> <a href="http://free-food-finder.s3-website.us-east-2.amazonaws.com/"> Website Link </a> </h6>
 </div>
 
-![alt-text](visaals.github.io/img/fff_1.png)
-![alt-text]("visaals.github.io/img/fff_2.png)
+![fff-1](visaals.github.io/img/fff_1.png)
+![fff-2](visaals.github.io/img/fff_2.png)
 
 For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
 
