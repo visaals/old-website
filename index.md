@@ -4,10 +4,10 @@ Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis stu
 ## Personal Projects
 
 <h3 align="center">
-### The Wapp (The Workout App)
+The Wapp (The Workout App)
 </h3>
-<h4> align="center">
-#### Summer 2017
+<h4 align="center">
+Summer 2017
 </h4>  
 
 <p align="center"><img src="visaals.github.io/img/resized_wapp.gif"/></p>
