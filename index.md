@@ -5,9 +5,9 @@ Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis stu
 
 ### The Wapp (The Workout App)
 <p align="center">
-#### Summer 2017
-![gif of the wapp](https://github.com/visaals/Portfolio/blob/master/screenshots/resized_wapp.gif)
-</p>
+#### Summer 2017</p>
+
+<img align="center">![gif of the wapp](https://github.com/visaals/Portfolio/blob/master/screenshots/resized_wapp.gif)</img>
 Above is a gif of a workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps. 
 
 The inspiration for this project came from the fact that sometimes could not remember if I had done 3 sets or 4 sets on a certain lift because I take 1.5-3 minutes rest between sets. After browsing through the App Store, I noticed all of the weight lifting apps were all too bloated with unecessary features, required too many steps to keep keep track of and time a lift, or had too much visual clutter. At the time, I had wanted to learn how to make an app anyway, so why not kill two birds with one stone and learn by building my own personal workout app?
