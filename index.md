@@ -6,9 +6,9 @@ Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis stu
 <h3 align="center">
 The Wapp (The Workout App)
 </h3>
-<h4 align="center">
+<h4 align="center"><i>
 Summer 2017
-</h4>  
+</i></h4>  
 
 <p align="center"><img src="visaals.github.io/img/resized_wapp.gif"/></p>
 
@@ -20,7 +20,7 @@ The inspiration for this project came from the fact that sometimes could not rem
 ## Academic Projects
 <div align="center">
 <h3> Free Food Finder (CSE 330) </h3>
-<h4> Spring 2017 </h4>
+<h4> <i>Spring 2017</i> </h4>
 <h6> <a href="http://free-food-finder.s3-website.us-east-2.amazonaws.com/"> Website Link </a> </h6>
 </div>
 
