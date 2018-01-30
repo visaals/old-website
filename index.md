@@ -16,6 +16,8 @@ Above is a gif of a workout app I created using React Native, a Javascript frame
 
 The inspiration for this project came from the fact that sometimes could not remember if I had done 3 sets or 4 sets on a certain lift because I take 1.5-3 minutes rest between sets. After browsing through the App Store, I noticed all of the weight lifting apps were all too bloated with unecessary features, required too many steps to keep keep track of and time a lift, or had too much visual clutter. At the time, I had wanted to learn how to make an app anyway, so why not kill two birds with one stone and learn by building my own personal workout app?
 
+Usage: Enter your exercise (name, weight, reps) in the bottom card and click the '+' to add it to your workout. Every time you complete a set, click on the number next to that exercise to mark its completion and automatically start the rest timer. Repeat for each set and exercise until finished. 
+
 
 ## Academic Projects
 <div align="center">
@@ -27,7 +29,7 @@ The inspiration for this project came from the fact that sometimes could not rem
 ![fff-1](visaals.github.io/img/fff_1.png)
 ![fff-2](visaals.github.io/img/fff_2.png)
 
-For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
+For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. Although it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. React's component based structure saved us so much time in the long run.   
 
 I mainly handled creating the form and the list of events in React while my partner Owen Auch (https://github.com/owenauch) handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express. We got started quickly using the create-react-app repo by Facebook.
 
