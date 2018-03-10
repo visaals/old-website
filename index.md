@@ -4,19 +4,18 @@
 # Portfolio
 Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis studying Computer Science and Mathematics. Here, I have laid out some of the stuff I have been working on recently.
 
-<div class="w3-card-4 w3-animate-zoom">
-  <header class="w3-container w3-center w3-margin">
-    <h3>The Wapp (The Workout App)</h3>
-  </header>
 
-  <div class="w3-container w3-col w3-margin" style="width:50%">
-    <img src="visaals.github.io/img/resized_wapp.gif" alt="Wapp Gif">
+<div class="w3-card-4 w3-animate-zoom w3-row-padding">
+
+<div class="w3-container w3-margin">
+
+<div class="w3-row">
+  <div class="w3-half w3-container"><img src="https://visaals.github.io/img/resized_wapp.gif" alt="Wapp Gif"></div>
+  <div class="w3-half w3-container"> 
+      <h3>Wapp: The Workout App </h3> 
+      <p>A workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps.</p>
   </div>
-
-  <div class="w3-container w3-col w3-margin" style="width:50%">
-    <p>A workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps.</p>
-  </div>
-
+</div>
 </div>
 
 
