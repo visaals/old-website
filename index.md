@@ -17,7 +17,7 @@ Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis stu
   </div>
 </div>
 </div>
-
+</div>
 
 ## Personal Projects
 
