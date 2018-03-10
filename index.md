@@ -8,18 +8,17 @@ Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis stu
   <header class="w3-container w3-center">
     <h3>The Wapp (The Workout App)</h3>
   </header>
-    <div class="w3-col" style="width:20%"><p>20%</p></div>
-    <div class="w3-col" style="width:60%">  
+    <div class="w3-col" style="width:50%">  
       <div class="w3-container w3-center">
         <img src="visaals.github.io/img/resized_wapp.gif" alt="Wapp Gif">
       </div>
     </div>
-    <div class="w3-col" style="width:20%"><p>20%</p></div>
+    <div class="w3-col" style="width:50%">
+      <div class="w3-container w3-center">
+        <p>A workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps.</p>
+      </div>
+    </div>
 
-  <div class="w3-container w3-center">
-    <p>A workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps.</p>
-  </div>
-  
 </div>
 
 
