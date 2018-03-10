@@ -1,25 +1,21 @@
   <!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
 
-  <!-- Compiled and minified JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-  
-
 # Portfolio
 Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis studying Computer Science and Mathematics. Here, I have laid out some of the stuff I have been working on recently.
 
 
   <div class="card">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="images/office.jpg">
+      <img class="activator" src="visaals.github.io/img/resized_wapp.gif">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+      <span class="card-title activator grey-text text-darken-4">The Wapp (The Workout App)<i class="material-icons right">more_vert</i></span>
+      <p><a href="visaals.github.io/wapp">More Info</a></p>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+      <p>A workout app I created using React Native, a Javascript framework created by Facebook to develop cross platform (iOS and Android) apps.</p>
     </div>
   </div>
 
