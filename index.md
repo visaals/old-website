@@ -5,8 +5,8 @@
 Hi, I'm Visaal Ambalam. I am a student at Washington University in St. Louis studying Computer Science and Mathematics. Here, I have laid out some of the stuff I have been working on recently.
 
 <div class="w3-card-4">
-  <header class="w3-container w3-blue">
-    <h3 align="center">The Wapp (The Workout App)
+  <header class="w3-container">
+    <h3 align="center">The Wapp (The Workout App)</h3>
   </header>
     
   <img src="visaals.github.io/img/resized_wapp.gif" alt="Wapp Gif">
